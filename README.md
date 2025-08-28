@@ -1,6 +1,6 @@
 # SelfTracker
 # DRAGGER.Tracker
-** this is a self tracking gui that detects when u join a lobby and sends info to a discord webhook **
+this is a self tracking gui that detects when u join a lobby and sends info to a discord webhook
 ## Layout
 - Setup
 - Webhook [U type in or paste in the webhook]
